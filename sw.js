@@ -1,4 +1,4 @@
-const CACHE_NAME = 'top-rb-relatorio-v1';
+const CACHE_NAME = 'top-rb-relatorio-v2';
 const ARQUIVOS = [
   './index.html',
   './manifest.json',
